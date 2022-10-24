@@ -31,10 +31,10 @@ This is the Task schema (model), used to pass to the methods that require it.
 ```json
 {
   "id": 0,
-  "titulo": "string",
-  "descricao": "string",
-  "data": "2022-10-24T17:00:01.059A",
-  "status": "Pendente"
+  "title": "string",
+  "description": "string",
+  "date": "2022-10-24T17:00:01.059A",
+  "status": "Pending"
 }
 ```
 
