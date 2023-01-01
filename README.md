@@ -1,6 +1,6 @@
 # Task Scheduling System
 
-Project developed at Digital Innovation One's Pottencial .NET Developer Bootcamp with guidance from expert [Leonardo Buta](https://github.com/leonardo-buta/ "Leonardo Buta").
+Project developed at Digital Innovation One's Pottencial .NET Developer Bootcamp with guidance from expert [Leonardo Buta](https://github.com/leonardo-buta/ "Leonardo Buta")
 
 Learning to build a task manager system, to register a list of tasks that will allow you to better organize your routine.
 This task list has a CRUD that allows getting the records, creating, saving and deleting these records.
